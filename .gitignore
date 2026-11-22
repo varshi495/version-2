@@ -1,0 +1,13 @@
+Plant_Disease_Dataset/
+.Plant_Disease_Dataset/
+.venv/
+venv/
+temp/
+test/
+train/
+valid/
+__MACOSX/
+train_model.h5
+trained_model.h5
+*.h5
+*.keras
